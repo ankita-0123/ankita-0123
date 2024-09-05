@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ankita-0123
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Frontend Develpment.
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science.
 
 <!---
 ankita-0123/ankita-0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
